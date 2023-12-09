@@ -1,2 +1,2 @@
-a="sample exercises"
+a="Sample exercises"
 print(a)
