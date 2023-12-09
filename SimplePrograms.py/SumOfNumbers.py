@@ -1,6 +1,5 @@
 
-x=60
+x=10
 y=x+50
-y=x+30
-z=x+y
+z=x*y
 print(z)
