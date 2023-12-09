@@ -5,3 +5,4 @@ if user_input.isupper():
 else:
     user_input=user_input.upper()
     print(user_input)
+print("BYE")
